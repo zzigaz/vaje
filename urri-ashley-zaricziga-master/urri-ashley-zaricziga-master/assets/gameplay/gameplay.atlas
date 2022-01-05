@@ -1,0 +1,61 @@
+
+gameplay.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 49
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: -1
+civilian
+  rotate: false
+  xy: 644, 471
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+pausa
+  rotate: false
+  xy: 2, 531
+  size: 852, 480
+  orig: 852, 480
+  offset: 0, 0
+  index: -1
+power
+  rotate: false
+  xy: 856, 902
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+soldier
+  rotate: false
+  xy: 2, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+taliban1
+  rotate: false
+  xy: 856, 934
+  size: 150, 77
+  orig: 150, 77
+  offset: 0, 0
+  index: -1
+
+gameplay2.png
+size: 1024, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+winner
+  rotate: false
+  xy: 2, 2
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: -1
